@@ -9,4 +9,4 @@ In my free time, I enjoy working with fun data sets and creating queries and das
 
 This is an analyst portfolio where I can showcase my skills and share my projects :)
 
-My CV: 
+My CV: [CV](Derek Elvis DA Resume..pdf)
