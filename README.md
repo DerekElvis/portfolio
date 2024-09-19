@@ -1,6 +1,6 @@
 # Derek Elvis: Data Analyst Portfolio
 
-## Who am I
+## Who am I?
 Hi! My name is Derek Elvis and I have recently graduated from the Rutgers Business School in New Brunswick, New Jersey, where I completed my degree in Business Analytics and Information Technologies. It is the same as a Management Information Systems degree. I enjoy working with data and reading it to understand the world around us. 
 
 During my time at Rutgers, I accumulated many skills utilizing different applications in order to clean, manipulate, and visualize data to get the most out of the numbers. I have also gained experience with machine learning and data mining which can be beneficial for my role in data analytics. 
