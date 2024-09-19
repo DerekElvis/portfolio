@@ -7,6 +7,6 @@ During my time at Rutgers, I accumulated many skills utilizing different applica
 
 In my free time, I enjoy working with fun data sets and creating queries and dashboards to see the data up close and to have a higher understanding of complex data. 
 
-This is a analyst portfolio where I can showcase my skills and share my projects :)
+This is an analyst portfolio where I can showcase my skills and share my projects :)
 
 My CV: 
