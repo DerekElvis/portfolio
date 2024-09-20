@@ -10,3 +10,5 @@ In my free time, I enjoy working with fun data sets and creating queries and das
 This is an analyst portfolio where I can showcase my skills and share my projects :)
 
 My CV: [Resume](https://github.com/DerekElvis/portfolio/blob/main/Derek%20Elvis%20DA%20Resume..pdf)
+
+Tableau: [Visualizations](https://public.tableau.com/app/profile/derek.elvis/viz/FootballDashboard_17242814551160/Dashboard1)
