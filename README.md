@@ -22,3 +22,11 @@ Tableau: [Visualizations](https://public.tableau.com/app/profile/derek.elvis/viz
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 R Studio: [Global GDP Forecasts](https://github.com/DerekElvis/portfolio/blob/main/TS_Final%20Project.pdf)
+
+**Education**
+---------------------------------------------------------------------------------------------------------------------------------------------
+#Rutgers University, New Brunswick, NJ
+Bachelor of Science in Business Analytics and Information Technologies;  Sep 2022 - May 2024
+
+#Raritan Valley Community College, Branchberg, NJ 
+Associates of Science in Business Administration and Management 
