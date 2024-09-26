@@ -11,6 +11,8 @@ This is an analyst portfolio where I can showcase my skills and share my project
 
 My CV: [Resume](https://github.com/DerekElvis/portfolio/blob/main/Derek%20Elvis%20DA%20Resume..pdf)
 
+LinkedIn: [Profile](https://www.linkedin.com/in/derek-elvis24/)
+
 Tableau: [Visualizations](https://public.tableau.com/app/profile/derek.elvis/viz/FootballDashboard_17242814551160/Dashboard1)
 
 R Studio
