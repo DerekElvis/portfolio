@@ -16,4 +16,4 @@ Tableau: [Visualizations](https://public.tableau.com/app/profile/derek.elvis/viz
 R Studio
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-R Studio: [Global GDP Forecasts](
+R Studio: [Global GDP Forecasts](TS_Final Project.pdf)
