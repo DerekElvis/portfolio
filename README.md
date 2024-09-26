@@ -25,8 +25,8 @@ R Studio: [Global GDP Forecasts](https://github.com/DerekElvis/portfolio/blob/ma
 
 **Education**
 ---------------------------------------------------------------------------------------------------------------------------------------------
-#Rutgers University, New Brunswick, NJ
-Bachelor of Science in Business Analytics and Information Technologies;  Sep 2022 - May 2024
+# Rutgers University, New Brunswick, NJ
+Bachelors of Science in Business Analytics and Information Technologies;  Sep 2022 - May 2024
 
-#Raritan Valley Community College, Branchberg, NJ 
+# Raritan Valley Community College, Branchberg, NJ 
 Associates of Science in Business Administration and Management 
