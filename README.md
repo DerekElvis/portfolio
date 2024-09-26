@@ -21,6 +21,7 @@ LinkedIn: [Profile](https://www.linkedin.com/in/derek-elvis24/)
 [Code](https://github.com/DerekElvis/portfolio/blob/main/TS_Final%20Project.pdf)
 
 Goals: Forecast the countries with the top 10 GDP growth for the next five years
+
 Applications/Skills: R studio, Forecasting, Accuracy testing, Visualization
 
 Description: For the final project for time series modeling, I and two other analysts took data from a data source containing the GDP growths for the countries of the world. We cleaned and filtered the data to show the countries with the top 10 growth as well as the world average. We then used a training and testing set for KPSS root tests and ARIMA scores to forecast the data accurately.
