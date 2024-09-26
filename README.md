@@ -29,4 +29,4 @@ R Studio: [Global GDP Forecasts](https://github.com/DerekElvis/portfolio/blob/ma
 Bachelors of Science in Business Analytics and Information Technologies;  Sep 2022 - May 2024
 
 ### Raritan Valley Community College, Branchberg, NJ 
-Associates of Science in Business Administration and Management 
+Associates of Science in Business Administration and Management; Sep 2020 - Aug 2022
