@@ -9,9 +9,24 @@ In my free time, I enjoy working with fun data sets and creating queries and das
 
 This is an analyst portfolio where I can showcase my skills and share my projects :)
 
+
 My CV: [Resume](https://github.com/DerekElvis/portfolio/blob/main/Derek%20Elvis%20DA%20Resume..pdf)
 
 LinkedIn: [Profile](https://www.linkedin.com/in/derek-elvis24/)
+
+
+**Projects**
+---------------------------------------------------------------------------------------------------------------------------------------------
+##Global GDP forecasts
+[Code](https://github.com/DerekElvis/portfolio/blob/main/TS_Final%20Project.pdf)
+
+Goals: Forecast the countries with the top 10 GDP growth for the next five years
+Applications/Skills: R studio, Forecasting, Accuracy testing, Visualization
+
+Description: For the final project for time series modeling, I and two other analysts took data from a data source containing the GDP growths for the countries of the world. We cleaned and filtered the data to show the countries with the top 10 growth as well as the world average. We then used a training and testing set for KPSS root tests and ARIMA scores to forecast the data accurately.
+
+Outcome: By utilizing R Studio, we were able to forecast and visualize the data correctly and by calculating the KPSS root tests, we were able to recover a numeric value for the accuracy. 
+
 
 **Dashboards**
 ---------------------------------------------------------------------------------------------------------------------------------------------
