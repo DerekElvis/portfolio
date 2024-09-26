@@ -13,9 +13,12 @@ My CV: [Resume](https://github.com/DerekElvis/portfolio/blob/main/Derek%20Elvis%
 
 LinkedIn: [Profile](https://www.linkedin.com/in/derek-elvis24/)
 
+**Dashboards**
+---------------------------------------------------------------------------------------------------------------------------------------------
+
 Tableau: [Visualizations](https://public.tableau.com/app/profile/derek.elvis/viz/FootballDashboard_17242814551160/Dashboard1)
 
-R Studio
+**R Studio**
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 R Studio: [Global GDP Forecasts](https://github.com/DerekElvis/portfolio/blob/main/TS_Final%20Project.pdf)
