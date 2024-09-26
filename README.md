@@ -17,7 +17,7 @@ LinkedIn: [Profile](https://www.linkedin.com/in/derek-elvis24/)
 
 **Projects**
 ---------------------------------------------------------------------------------------------------------------------------------------------
-##Global GDP forecasts
+## Global GDP forecasts
 [Code](https://github.com/DerekElvis/portfolio/blob/main/TS_Final%20Project.pdf)
 
 Goals: Forecast the countries with the top 10 GDP growth for the next five years
