@@ -29,6 +29,18 @@ Description: For the final project for time series modeling, I and two other ana
 Outcome: By utilizing R Studio, we were able to forecast and visualize the data correctly and by calculating the KPSS root tests, we were able to recover a numeric value for the accuracy. 
 
 
+## Pokemon Pkedex
+[Code]()
+
+Goals: To find 
+
+Applications/Skills: SQL, Data Manipulation Language, Aggregation
+
+Description: For this little personal project, I used SQL to find answers in the data. In the data I cleaned, aggregated, and manipulated the data in order to find the answers I was looking for. Some of these answers were to see which Pokemon were the fastest, strongest, and other characteristics. 
+
+Outcome: By writing queries in SQL, I could work the data to find the answers to my questions. 
+
+
 **Dashboards**
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
