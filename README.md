@@ -30,13 +30,13 @@ Outcome: By utilizing R Studio, we were able to forecast and visualize the data 
 
 
 ## Pokemon Pkedex
-[Code]()
+[Code](Pokemon Project.sql)
 
-Goals: To find 
+Goals: To find important characteristics within the Pokedex
 
 Applications/Skills: SQL, Data Manipulation Language, Aggregation
 
-Description: For this little personal project, I used SQL to find answers in the data. In the data I cleaned, aggregated, and manipulated the data in order to find the answers I was looking for. Some of these answers were to see which Pokemon were the fastest, strongest, and other characteristics. 
+Description: For this little personal project, I used SQL to find answers in the data. The data was the Pokedex form pokemon from generations 1-5 (those were the ones I played as a kid). In the data I cleaned, aggregated, and manipulated the data in order to find the answers I was looking for. Some of these answers were to see which Pokemon were the fastest, strongest, and other characteristics. 
 
 Outcome: By writing queries in SQL, I could work the data to find the answers to my questions. 
 
