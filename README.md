@@ -30,8 +30,7 @@ Outcome: By utilizing R Studio, we were able to forecast and visualize the data 
 
 
 ## Pokemon Pkedex
-Code: [Pokemon Project.sql]
-
+Code: [Pokemon Project.sql](Pokemon Project.sql)
 Goals: To find important characteristics within the Pokedex
 
 Applications/Skills: SQL, Data Manipulation Language, Aggregation
