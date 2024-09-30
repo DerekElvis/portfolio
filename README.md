@@ -30,7 +30,7 @@ Outcome: By utilizing R Studio, we were able to forecast and visualize the data 
 
 
 ## Pokemon Pkedex
-Code: [Pokemon Project.sql](Pokemon Project.sql)
+[Code](https://github.com/DerekElvis/portfolio/blob/main/Pokemon%20Project.sql)
 
 Goals: To find important characteristics within the Pokedex
 
