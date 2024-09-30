@@ -29,7 +29,7 @@ Description: For the final project for time series modeling, I and two other ana
 Outcome: By utilizing R Studio, we were able to forecast and visualize the data correctly and by calculating the KPSS root tests, we were able to recover a numeric value for the accuracy. 
 
 
-## Pokemon Pkedex
+## Pokemon Pokedex
 [Code](https://github.com/DerekElvis/portfolio/blob/main/Pokemon%20Project.sql)
 
 Goals: To find important characteristics within the Pokedex
