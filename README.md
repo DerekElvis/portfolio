@@ -41,15 +41,29 @@ Description: For this little personal project, I used SQL to find answers in the
 Outcome: By writing queries in SQL, I could work the data to find the answers to my questions. 
 
 ## Stock Market school project
-[Code]()
+[Code](https://github.com/DerekElvis/portfolio/blob/main/Project%20Script%20copy.sql)
 
 Goals: To find company financial information for nine large companies on the NASDAQ.
 
 Applications/Skills: SQL, Data Manipulation Language, Data Definition Language, Aggregation, Joining.
 
-Description: For my final project for my Business Data Management class, I took nine companies who are on the NASDAQ tickets and utilized SQL to find financial data for these companies. These companies are Amazon, Apple, Cisco, Meta, Mircosoft, Netflix, Qualcomm, Starbucks, and Tesla. I created and manipulated copious amounts of ticker data to clean and perform the queries. 
+Description: For my final project for my Business Data Management class, I took nine companies that are on the NASDAQ tickets and utilized SQL to find financial data for these companies. These companies are Amazon, Apple, Cisco, Meta, Mircosoft, Netflix, Qualcomm, Starbucks, and Tesla. I created and manipulated copious amounts of ticker data to clean and perform the queries. 
 
 Outcome: By cleaning the data and providing the queries, I was able to work out the financial data for these nine companies.
+
+## NCAA Football Dynasty Stats
+[Code]()
+
+Goals: Find performance metrics for players during my four-year dynasty in NCAA 25
+
+Applications/Skills: MySQL, Inner Joins, DML
+
+Description: This is a project that I used during my time playing dynasty mode in NCAA 25. This game is like Madden but for college football and Dynasty allowed me to play as a coach. During my tenure, I played through four seasons as the Coastal Carolina Chanticleers and recorded stats for passing, rushing, receptions, and defence. I then took these stats into MySQL and created queries in order to find performance metrics and potential trends. 
+
+Outcome: Using MySQL, I was able to create performance metrics such as passing yards per player, rushing-to-passing ratio, and defense stats that showed some trends. When I kept using only one quarterback and had players that had played for at least two years, I saw a significant improvement in winning percentage. 
+
+
+
 
 **Dashboards**
 ---------------------------------------------------------------------------------------------------------------------------------------------
