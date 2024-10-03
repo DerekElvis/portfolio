@@ -70,6 +70,16 @@ Outcome: Using MySQL, I was able to create performance metrics such as passing y
 
 Tableau: [Visualizations](https://public.tableau.com/app/profile/derek.elvis/viz/FootballDashboard_17242814551160/Dashboard1)
 
+**MySQL**
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Pokemon Pokedex: [Pokedex](https://github.com/DerekElvis/portfolio/blob/main/Pokemon%20Project.sql)
+
+Stock Market Project: [Tickers](https://github.com/DerekElvis/portfolio/blob/main/Project%20Script%20copy.sql)
+
+NCAA Dynasty: [Stats](https://github.com/DerekElvis/portfolio/blob/main/Football_Project.sql)
+
+
 **R Studio**
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
