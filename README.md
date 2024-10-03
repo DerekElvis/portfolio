@@ -52,7 +52,7 @@ Description: For my final project for my Business Data Management class, I took 
 Outcome: By cleaning the data and providing the queries, I was able to work out the financial data for these nine companies.
 
 ## NCAA Football Dynasty Stats
-[Code]()
+[Code](https://github.com/DerekElvis/portfolio/blob/main/Football_Project.sql)
 
 Goals: Find performance metrics for players during my four-year dynasty in NCAA 25
 
