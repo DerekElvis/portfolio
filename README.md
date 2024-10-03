@@ -40,6 +40,16 @@ Description: For this little personal project, I used SQL to find answers in the
 
 Outcome: By writing queries in SQL, I could work the data to find the answers to my questions. 
 
+## Stock Market school project
+[Code]()
+
+Goals: To find company financial information for nine large companies on the NASDAQ.
+
+Applications/Skills: SQL, Data Manipulation Language, Data Definition Language, Aggregation, Joining.
+
+Description: For my final project for my Business Data Management class, I took nine companies who are on the NASDAQ tickets and utilized SQL to find financial data for these companies. These companies are Amazon, Apple, Cisco, Meta, Mircosoft, Netflix, Qualcomm, Starbucks, and Tesla. I created and manipulated copious amounts of ticker data to clean and perform the queries. 
+
+Outcome: By cleaning the data and providing the queries, I was able to work out the financial data for these nine companies.
 
 **Dashboards**
 ---------------------------------------------------------------------------------------------------------------------------------------------
