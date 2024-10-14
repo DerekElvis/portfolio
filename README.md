@@ -64,7 +64,7 @@ Outcome: Using MySQL, I was able to create performance metrics such as passing y
 
 
 ## New Jersey Population Calculator
-[Code]()
+[Code](https://github.com/DerekElvis/portfolio/blob/main/NJ_Population_Growth.py)
 
 Goals: Calculate the population growth of New Jersey for 50 years using different growth calculations.
 
@@ -72,13 +72,18 @@ Applications/Skills: Python, numpy, matplotlib, Statistics, visualization
 
 Description: For this project, I used Python to calculate the population growth of New Jersey in a 50-year time span. I utilized two different growth calculations, exponential and logistic growth. Having P0 = initial population at time 0, r = rate of growth, t = time in years, e = Euler's number (2.718), and K = maximum population the state and hold. Once calculated, I plotted both the exponential and the logistic growth on a line graph as well as the population ceiling. 
 
-Outcome: 
+Outcome: By having an estimated growth rate of about 0.32%, both growth models showed a positive trend within the next 50 years. However, the exponential growth model showed a growth of about 1.1 million people whereas the logistic growth model only showed growth of less than one million in 50 years. This is because the exponential growth model increased more during the first 20 years but slowed down afterward. Both of the models tell us that within the next 50 years with a steady growth rate of about 0.32%, New Jersey's population will grow by about a million people. 
 
 
 **Dashboards**
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 Tableau: [Visualizations](https://public.tableau.com/app/profile/derek.elvis/viz/FootballDashboard_17242814551160/Dashboard1)
+
+**Python**
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+NJ Growth: [Population](https://github.com/DerekElvis/portfolio/blob/main/NJ_Population_Growth.py)
 
 **MySQL**
 ---------------------------------------------------------------------------------------------------------------------------------------------
