@@ -63,6 +63,16 @@ Description: This is a project that I used during my time playing dynasty mode i
 Outcome: Using MySQL, I was able to create performance metrics such as passing yards per player, rushing-to-passing ratio, and defense stats that showed some trends. When I kept using only one quarterback and had players that had played for at least two years, I saw a significant improvement in winning percentage. 
 
 
+## New Jersey Population Calculator
+[Code]()
+
+Goals: Calculate the population growth of New Jersey for 50 years using different growth calculations.
+
+Applications/Skills: Python, numpy, matplotlib, Statistics, visualization
+
+Description: For this project, I used Python to calculate the population growth of New Jersey in a 50-year time span. I utilized two different growth calculations, exponential and logistic growth. Having P0 = initial population at time 0, r = rate of growth, t = time in years, e = Euler's number (2.718), and K = maximum population the state and hold. Once calculated, I plotted both the exponential and the logistic growth on a line graph as well as the population ceiling. 
+
+Outcome: 
 
 
 **Dashboards**
